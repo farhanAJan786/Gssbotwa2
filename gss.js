@@ -124,8 +124,8 @@ const isCommand = isAsu ? body.replace(pric, '').trim().split(/ +/).shift().toLo
         const qmsg = (quoted.msg || quoted)
         const isMedia = /image|video|sticker|audio/.test(mime)
 const isViewOnce = ["viewOnceMessageV2","viewOnceMessage"].includes(m.type)
-	const botname = "𝐆𝐒𝐒_𝚩𝚯𝚻𝐖𝚫";
-	const devlopernumber = "917050906659";
+	const botname = "FARHAN JANI";
+	const devlopernumber = "923021237037";
         // Group
         const groupMetadata = m.isGroup ? await gss.groupMetadata(m.chat).catch(e => {}) : ''
         const groupName = m.isGroup ? groupMetadata.subject : ''
@@ -872,11 +872,11 @@ const menuText = `*🔢 TYPE BELOW NUMBER*
 9. ᴍᴀɪɴᴍᴇɴᴜ`;
 
 const menuMessage = `
-👨‍💻 GSSBOTWA - ＭＤ - Ｖ2 👨‍💻
+👨‍💻 FARHAN - ＭＤ - Ｖ2 👨‍💻
 ╭─────────────·
 │📍 ᴠᴇʀꜱɪᴏɴ: ᴠ2
 │👨‍💻 ᴏᴡɴᴇʀ : ᴇᴛʜɪx xsɪᴅ      
-│👤 ɴᴜᴍʙᴇʀ: 917050906659
+│👤 ɴᴜᴍʙᴇʀ: 923021237037
 ╰─────────────
 
 ╭───═❮ *ᴍᴇɴᴜ ʟɪsᴛ* ❯═───❖
@@ -1646,7 +1646,7 @@ case "score":
     const result = await response.json();
 
     let formattedResult = `╭══════════════•∞•══╮\n`;
-    formattedResult += `│⿻   *GSS BOTWA 😎 🔥*\n`;
+    formattedResult += `│⿻   *FARHAN JANI 😎 🔥*\n`;
     formattedResult += `│⿻   *LIVE MATCH INFO* ✨\n`;
     formattedResult += `│⿻\n`;
 
@@ -2356,7 +2356,7 @@ await doReact("⬇️");
 
           const captionText = `
 ╭═════════•∞•══╮
-│⿻ *GSS BOTWA*
+│⿻ *FARHAN JANI*
 │  *Youtube Mp4 Player* ✨
 │⿻ *Title:* ${videoInfo.title}
 │⿻ *Duration:* ${videoInfo.duration}
@@ -2399,7 +2399,7 @@ await doReact("⬇️");
 
           const captionText = `
 ╭═════════•∞•══╮
-│⿻ *GSS BOTWA*
+│⿻ *FARHAN JANI*
 │  *Youtube Mp4 Player* ✨
 │⿻ *Title:* ${firstVideo.title}
 │⿻ *Duration:* ${firstVideo.duration}
@@ -2461,7 +2461,7 @@ case 'ytvdoc':
 
           const captionText = `
 ╭═════════•∞•══╮
-│⿻ *GSS BOTWA*
+│⿻ *FARHAN JANI*
 │  *Youtube Mp4 Player* ✨
 │⿻ *Title:* ${videoInfo.title}
 │⿻ *Duration:* ${videoInfo.duration}
@@ -2504,7 +2504,7 @@ case 'ytvdoc':
 
           const captionText = `
 ╭═════════•∞•══╮
-│⿻ *GSS BOTWA*
+│⿻ *FARHAN JANI*
 │  *Youtube Mp4 Player* ✨
 │⿻ *Title:* ${firstVideo.title}
 │⿻ *Duration:* ${firstVideo.duration}
@@ -2571,7 +2571,7 @@ case 'ytmp3':
   },
   caption: `
 ╭═════════•∞•══╮
-│⿻ *GSS BOTWA*
+│⿻ *FARHAN JANI*
 │  *Youtube Player* ✨
 │⿻ *Title:* ${videoInfo.title}
 │⿻ *Duration:* ${videoInfo.timestamp}
@@ -5582,7 +5582,7 @@ case 'allmenu': {
     await doReact("📁");
     let a = db.data.users[m.sender];
     let introText = `
-╭──═❮ *GssBotwa* ❯═─┈•
+╭──═❮ *FARHAN JANI* ❯═─┈•
 │ Hi *${pushname}* 👋  
 ╰–❖ *${greetingTime}* 😄 
 
