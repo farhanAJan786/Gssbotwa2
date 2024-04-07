@@ -7,11 +7,11 @@ global.link = 'https://chat.whatsapp.com/Gyzvz1ZSpw91Gc44quMXc5'
 global.linkGroup = 'https://chat.whatsapp.com/Gyzvz1ZSpw91Gc44quMXc5'
 
 global.apikey = 'bf2d2cf29b3edc604b447983';
-global.ownername = "FARHAN JANI";
-global.owner = ['923021237037'];
-global.premium = ['923021237037'];
-global.packname = "FARHAN JANI";
-global.author = "923021237037 FARHAN A JAN❤️✌️";
+global.ownername = "Nazeerkk236🍬🧃";
+global.owner = ['923317715206'];
+global.premium = ['923317715206'];
+global.packname = "Nazeerkk236🍬🧃";
+global.author = "Nazeerkk236🍬🧃";
 global.sessionName = 'session';
 global.prefa = [".", "!", "/", "?"];
 global.typemenu = "v1"
