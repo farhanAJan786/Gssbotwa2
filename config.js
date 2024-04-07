@@ -3,8 +3,8 @@ const chalk = require('chalk');
 
 
 // Other
-global.link = 'https://chat.whatsapp.com/Gyzvz1ZSpw91Gc44quMXc5'
-global.linkGroup = 'https://chat.whatsapp.com/Gyzvz1ZSpw91Gc44quMXc5'
+global.link = 'https://chat.whatsapp.com/HLaHhHH9RedKDSgoBtNzDQ'
+global.linkGroup = 'https://chat.whatsapp.com/HLaHhHH9RedKDSgoBtNzDQ'
 
 global.apikey = 'bf2d2cf29b3edc604b447983';
 global.ownername = "Nazeerkk236🍬🧃";
