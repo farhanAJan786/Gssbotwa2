@@ -3,19 +3,19 @@ const chalk = require('chalk');
 
 
 // Other
-global.link = 'https://chat.whatsapp.com/HLaHhHH9RedKDSgoBtNzDQ'
-global.linkGroup = 'https://chat.whatsapp.com/HLaHhHH9RedKDSgoBtNzDQ'
+global.link = '923021237037'
+global.linkGroup = '923021237037'
 
 global.apikey = 'bf2d2cf29b3edc604b447983';
-global.ownername = "Nazeerkk236🍬🧃";
-global.owner = ['923317715206'];
-global.premium = ['923317715206'];
-global.packname = "Nazeerkk236🍬🧃";
-global.author = "Nazeerkk236🍬🧃";
+global.ownername = "🦋✨ᴵᴬᴹ  ➳ᴩª𝗴𝑎𝚕ᗷοț➳✨🦋";
+global.owner = ['923021237037'];
+global.premium = ['923021237037'];
+global.packname = "🦋✨ᴵᴬᴹ  ➳ᴩª𝗴𝑎𝚕ᗷοț➳✨🦋";
+global.author = "923021237037";
 global.sessionName = 'session';
 global.prefa = [".", "!", "/", "?"];
 global.typemenu = "v1"
-global.menuType = "2"
+global.menuType = "3"
 global.autoswview = true
 global.autoread = false
 global.available = false
